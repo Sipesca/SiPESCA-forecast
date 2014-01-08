@@ -1,4 +1,4 @@
 SiPESCA-forecast
 ================
 
-Predicción con SiPESCA
+Procedimientos de predicción para SiPESCA
